@@ -4,6 +4,7 @@ This project is an example of a compound design pattern inspired by the "Head Fi
 
 **Applied Patterns:**
 
+
 **1. Factory Pattern**
    
 Enables the creation of new objects and allows this object creation logic to be moved to subclasses. This pattern abstracts the logic of object creation and prevents client classes from deciding which object to create.
