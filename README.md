@@ -1,9 +1,8 @@
-**Compound Design Pattern**
+**COMPOUND DESIGN PATTERN**
 
 This project is an example of a compound design pattern inspired by the "Head First Design Patterns" book. In this example, multiple design patterns have been combined to make the design and implementation of complex systems more modular and manageable.
 
-**Applied Patterns:**
-
+**APPLIED PATTERNS:**
 
 **1. Factory Pattern**
    
